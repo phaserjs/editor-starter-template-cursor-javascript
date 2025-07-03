@@ -15,10 +15,10 @@ We recommend using Claude Sonnet as the LLM, since it is the one that performs b
 Important: the Phaser Editor MCP server only works if there is a running Phaser Editor 5 instance. The steps are:
 
 - Open Phaser Editor 5
-- Open a project
-- Open Cursor
+- Create a new project with this template
+- Open the project in Cursor
 - Open the Chat window.
-- Select Claude Sonnet as agent.
+- Select Claude Sonnet as agent. For a better performance, select the MAX mode.
 - Start creating!
 
 To know if the MCP server is working, you can start with this prompt `list all the Phaser Editor scenes`. Looking for a second prompt? Try with `add two other guapen images to the Level scene and make all of them to rotate around the dino`.
