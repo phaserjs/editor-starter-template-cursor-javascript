@@ -25,7 +25,7 @@ To know if the MCP server is working, you can start with this prompt `list all t
 
 ## Work in progress
 
-The Phaser Editor MCP server is a work in progress. There are a lot of missing features, like prefabs and user component manipulation, a full arcade physics support, the FX properties of objects, etc... This project template is experimental.
+The Phaser Editor MCP server is a work in progress. There are a lot of missing features, like prefabs and user component manipulation, a full arcade physics support, the Filter properties of objects, etc... This project template is experimental.
 
 ## VS Code
 
