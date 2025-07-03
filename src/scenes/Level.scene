@@ -33,7 +33,7 @@
             "y": 478,
             "originX": 0.5,
             "originY": 0.5,
-            "text": "Phaser 4 + Phaser Editor v5",
+            "text": "Phaser 4 + Phaser Editor v5 + Cursor",
             "fontFamily": "Arial",
             "fontSize": "30px"
         }
