@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Always use `"` instead of `'` for string literals.
+- Use `camelCase` for variable names.
+- Be careful on labeling the objects in the Scene Editor. The label of a game object is used to generate the varibale name. So use the correct style (like in `myNameInCamelCase`).

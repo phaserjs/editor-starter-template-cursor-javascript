@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Arcade Physics
+
+Here are some tips to implement arcade physics with Phaser Editor:
+
+- When you are implementing collision logic, you can group the objects in the Scene Editor by using a Layer or a Container.
+- It is a good idea to group the objects like collectibles, enemies, platforms, etc... 
+- The Scene Editor doesn't support the Phaser Group object, but you can use a Layer or a Container instead.
+- Always try to group the objects in the Scene Editor using the Phaser Editor MCP tools. This must be always your first option.
+- For colliders, you can use the list of objects of the layers and containers.
+- Remember always to check the scope of the objects in the scene so they are accesible in all methods of the class.
+- To access the physics properties and methods of an object, always use the `.body` property of the object.

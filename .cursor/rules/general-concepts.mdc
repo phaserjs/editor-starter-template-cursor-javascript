@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# General Phaser Editor rules
+
+This project was generated using **Phaser Editor**.
+
+Phaser Editor is an integrated development environment (IDE) designed to build games with the Phaser framework ([phaser.io](https://phaser.io)).
+
+The main goal of Phaser Editor is to provide visual tools for creating scenes, animations, and managing game assets efficiently.
+
+Whenever possible, you should use the built-in tools provided by Phaser Editor instead of writing code manually. Phaser Editor is primarily intended for users who prefer visual workflows, which is a key reason why developers choose to work with it.
+
+When assigned a task, always attempt to complete it using the **MCP tools** available in Phaser Editor first. If the task cannot be completed with these tools, you can then advise the user accordingly. In general, tasks that fall outside the scope of Phaser Editor’s visual tools involve coding the game logic directly.

@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Assets
+
+Phaser Editor uses asset pack files to load the assets in the game. The asset pack files contains a description of each asset used in the game and is used by Phaser to load images, spritesheets, audio, etc... Each asset defined in the pack has key, so you can use this information in your code. 
+
+You should use the Phaser Editor MCP tools to get insights about the available assets in the project. The MCP tools provides all the info and utilities you need to analyze the assets.

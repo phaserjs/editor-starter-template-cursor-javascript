@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Animations
+
+- Phaser Editor provides an Animations Editor that can be used to create sprite animations. 
+- Let the user to define all the sprite animations using the Animations Editor.
+- The animations are loaded in the asset packs.
+- Use the Phaser Editor MCP tools to check for the available animations in the asset packs, so check it always when you generate code for playing animations.
+- Always advice the users if there is not animations available in the project and encourage the user to create the animations with the Animations Editor and load the animations file in the asset packs.
+- Never create sprite animations in code unless the user ask for it explicity.
